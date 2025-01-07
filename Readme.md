@@ -1,7 +1,11 @@
 Equivalence Partitioning Testing - Group test cases into categories, such as valid wish list names and invalid names (empty or special characters).
+
 Boundary Values Testing - Test minimum and maximum lengths for wish list names.
+
 Transitioning State Testing - Test adding and removing hotels from the wish list and verify state changes.
+
 Functional Testing - Use combinations of actions (add, remove, rename) and verify outcomes.
+
 
 1. Usability Testing - Verify the user interface is easy to navigate and understand.
 2. Performance Testing - Evaluate performance under multiple simultaneous users.
