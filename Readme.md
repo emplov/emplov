@@ -6,19 +6,29 @@ Transitioning State Testing - Test adding and removing hotels from the wish list
 
 Functional Testing - Use combinations of actions (add, remove, rename) and verify outcomes.
 
+---
 
 Test Case 1: Save Hotel to Wish List
+
 Type: Functional Testing
+
 Priority: High
+
 Steps:
+
 1.1. Open the booking website.
+
 2.2. Search for a hotel.
+
 3.3. Click 'Save to Wish List.'
+
 4.4. Verify that the hotel is added to the default wish list.
+
 Expected Result: The hotel is added successfully.
+
 Result: PASS
 
-
+---
 
 1. Usability Testing - Verify the user interface is easy to navigate and understand.
 2. Performance Testing - Evaluate performance under multiple simultaneous users.
